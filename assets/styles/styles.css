@@ -67,6 +67,12 @@ header {
     font-size: 1.4rem;
 }
 
+.menu-item a:hover {
+    color: #0F1B4C;
+    transition: color 0.3s ease;
+    font-weight: bold;
+}
+
 .header-btn:first-child {
     background-color: transparent;
     color: #0F1B4C;
